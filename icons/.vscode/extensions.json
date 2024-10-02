@@ -1,0 +1,9 @@
+{
+	"recommendations": [
+		"Goonstation.goonstation-extpack",
+		"arcanis.vscode-zipfs",
+		"github.vscode-pull-request-github",
+		"EditorConfig.EditorConfig",
+		"esbenp.prettier-vscode"
+	]
+}

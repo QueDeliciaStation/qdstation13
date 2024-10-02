@@ -1,0 +1,7 @@
+<!-- Most valid html will work in here, excluding images. -->
+
+<h1>Welcome to BeeStation!</h1>
+
+<br><b>Website do bee: 	<a href="http://beestation13.com">Click Me!</a></b>
+<br><b>Discord: 	<a href="https://discord.gg/cSBx3XP8GQ">Nosso Discord!!</a></b>
+<br><b>Donate Ajude  o bee:	<a href="">Click Me!</a></b>
